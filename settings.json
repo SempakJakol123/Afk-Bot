@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "your_password",
+    "username": "balibayag123",
+    "password": "akoaygago123",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "SempakJakol.aternos.me",
+    "port": 47841,
     "version": "1.19.3"
   },
 
@@ -25,19 +25,19 @@
     },
 
     "anti-afk": {
-      "enabled": false,
-      "sneak": false,
-      "jump": false,
-      "rotate": false,
+      "enabled": true,
+      "sneak": true,
+      "jump": true,
+      "rotate": true,
 
       "hit": {
-        "enabled": false,
+        "enabled": true,
         "delay": 1000,
-        "attack-mobs": false
+        "attack-mobs": true
       },
 
       "circle-walk": {
-        "enabled": false,
+        "enabled": true,
         "radius": 2
       }
     },
